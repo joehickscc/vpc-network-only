@@ -8,6 +8,10 @@ This [CloudCoreo](http://www.cloudcoreo.com) repository will bring up a solid vp
 1. Network
 1. VPC
 
+## Categories
+
+1. Network
+
 <h3>OVERRIDE OPTIONAL VARIABLES</h3>
 * <b>VPC_NAME:</b>
   * required: true
