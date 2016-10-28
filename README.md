@@ -6,7 +6,7 @@ vpc-network-only
 This [CloudCoreo](http://www.cloudcoreo.com) repository will bring up a solid vpc for you to start with. It is across 3 datacenters with a public and private subnet in each. No resources will be launched that cost money.
 
 ## Hierarchy
-![composite inheritance hierarchy](https://raw.githubusercontent.com/CloudCoreo/STACK/master/images/hierarchy.png "composite inheritance hierarchy")
+![composite inheritance hierarchy](https://raw.githubusercontent.com/CloudCoreo/vpc-network-only/master/images/hierarchy.png "composite inheritance hierarchy")
 
 
 
