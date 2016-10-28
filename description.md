@@ -1,0 +1,1 @@
+This [CloudCoreo](http://www.cloudcoreo.com) repository will bring up a solid vpc for you to start with. It is across 3 datacenters with a public and private subnet in each. No resources will be launched that cost money.
