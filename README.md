@@ -68,7 +68,7 @@ This [CloudCoreo](http://www.cloudcoreo.com) repository will bring up a solid vp
 1. VPC
 
 ## Categories
-1. Audit
+1. Network
 
 
 
