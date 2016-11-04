@@ -37,4 +37,4 @@ variables:
         description: tags to apply to the vpc
         type: array
         default:
-            - "env=dev.app.hack"
+            - 
