@@ -53,12 +53,14 @@ This [CloudCoreo](http://www.cloudcoreo.com) repository will bring up a solid vp
 
 
 
-## Optional variables with no default
-
-**None**
-
-
 ## Optional variables with default
+
+### `VPC_TAGS`:
+  * description: tags to apply to the vpc
+  * default: 
+
+
+## Optional variables with no default
 
 ### `SUFFIX`:
   * description: when used will use the value to suffix the names of all converged objects
