@@ -79,6 +79,6 @@ This [CloudCoreo](http://www.cloudcoreo.com) repository will bring up a solid vp
 
 
 ## Icon
-
+![icon](https://raw.githubusercontent.com/CloudCoreo/vpc-network-only/master/images/icon.png "icon")
 
 
